@@ -18,7 +18,8 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "development",
+              "web-editor"
             ]
           },
           {
@@ -98,5 +99,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "search": {
+    "prompt": "Search documentation..."
   }
 }
