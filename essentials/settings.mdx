@@ -1,8 +1,9 @@
----
+***
+
 title: 'Global Settings'
 description: 'Mintlify gives you complete control over the look and feel of your documentation using the docs.json file'
 icon: 'gear'
----
+------------
 
 Every Mintlify site needs a `docs.json` file with the core configuration settings. Learn more about the [properties](#properties) below.
 
@@ -21,15 +22,17 @@ Example: `mintlify`
     <ResponseField name="group" type="string">
     The name of the group.
 
-    Example: `Settings`
+```
+Example: `Settings`
 
-    </ResponseField>
-    <ResponseField name="pages" type="string[]">
-    The relative paths to the markdown files that will serve as pages.
+</ResponseField>
+<ResponseField name="pages" type="string[]">
+The relative paths to the markdown files that will serve as pages.
 
-    Example: `["customization", "page"]`
+Example: `["customization", "page"]`
 
-    </ResponseField>
+</ResponseField>
+```
 
   </Expandable>
 </ResponseField>
@@ -87,11 +90,13 @@ Example: `mintlify`
     <ResponseField name="name" type="string">
     The name of the button.
 
-    Example: `Contact us`
-    </ResponseField>
-    <ResponseField name="url" type="string">
-    The url once you click on the button. Example: `https://mintlify.com/docs`
-    </ResponseField>
+```
+Example: `Contact us`
+</ResponseField>
+<ResponseField name="url" type="string">
+The url once you click on the button. Example: `https://mintlify.com/docs`
+</ResponseField>
+```
 
   </Expandable>
 </ResponseField>
@@ -103,12 +108,14 @@ Example: `mintlify`
     </ResponseField>
     <ResponseField name="url" type="string">
     If `link`: What the button links to.
-    
-    If `github`: Link to the repository to load GitHub information from.
-    </ResponseField>
-    <ResponseField name="name" type="string">
-    Text inside the button. Only required if `type` is a `link`.
-    </ResponseField>
+
+```
+If `github`: Link to the repository to load GitHub information from.
+</ResponseField>
+<ResponseField name="name" type="string">
+Text inside the button. Only required if `type` is a `link`.
+</ResponseField>
+```
 
   </Expandable>
 </ResponseField>
@@ -124,28 +131,30 @@ Example: `mintlify`
     <ResponseField name="icon" type="string">
     The [Font Awesome](https://fontawesome.com/search?q=heart) icon used to feature the anchor.
 
-    Example: `comments`
-    </ResponseField>
-    <ResponseField name="name" type="string">
-    The name of the anchor label.
+```
+Example: `comments`
+</ResponseField>
+<ResponseField name="name" type="string">
+The name of the anchor label.
 
-    Example: `Community`
-    </ResponseField>
-    <ResponseField name="url" type="string">
-      The start of the URL that marks what pages go in the anchor. Generally, this is the name of the folder you put your pages in.
-    </ResponseField>
-    <ResponseField name="color" type="string">
-      The hex color of the anchor icon background. Can also be a gradient if you pass an object with the properties `from` and `to` that are each a hex color.
-    </ResponseField>
-    <ResponseField name="version" type="string">
-      Used if you want to hide an anchor until the correct docs version is selected.
-    </ResponseField>
-    <ResponseField name="isDefaultHidden" type="boolean" default="false">
-      Pass `true` if you want to hide the anchor until you directly link someone to docs inside it.
-    </ResponseField>
-    <ResponseField name="iconType" default="duotone" type="string">
-      One of: "brands", "duotone", "light", "sharp-solid", "solid", or "thin"
-    </ResponseField>
+Example: `Community`
+</ResponseField>
+<ResponseField name="url" type="string">
+  The start of the URL that marks what pages go in the anchor. Generally, this is the name of the folder you put your pages in.
+</ResponseField>
+<ResponseField name="color" type="string">
+  The hex color of the anchor icon background. Can also be a gradient if you pass an object with the properties `from` and `to` that are each a hex color.
+</ResponseField>
+<ResponseField name="version" type="string">
+  Used if you want to hide an anchor until the correct docs version is selected.
+</ResponseField>
+<ResponseField name="isDefaultHidden" type="boolean" default="false">
+  Pass `true` if you want to hide the anchor until you directly link someone to docs inside it.
+</ResponseField>
+<ResponseField name="iconType" default="duotone" type="string">
+  One of: "brands", "duotone", "light", "sharp-solid", "solid", or "thin"
+</ResponseField>
+```
 
   </Expandable>
 </ResponseField>
@@ -186,41 +195,43 @@ Example: `mintlify`
       options that the user can toggle.
     </ResponseField>
 
-    <ResponseField name="auth" type="Auth">
-      <Expandable title="Auth">
-        <ResponseField name="method" type='"bearer" | "basic" | "key"'>
-          The authentication strategy used for all API endpoints.
-        </ResponseField>
-        <ResponseField name="name" type="string">
-        The name of the authentication parameter used in the API playground.
-
-        If method is `basic`, the format should be `[usernameName]:[passwordName]`
-        </ResponseField>
-        <ResponseField name="inputPrefix" type="string">
-        The default value that's designed to be a prefix for the authentication input field.
-
-        E.g. If an `inputPrefix` of `AuthKey` would inherit the default input result of the authentication field as `AuthKey`.
-        </ResponseField>
-      </Expandable>
+```
+<ResponseField name="auth" type="Auth">
+  <Expandable title="Auth">
+    <ResponseField name="method" type='"bearer" | "basic" | "key"'>
+      The authentication strategy used for all API endpoints.
     </ResponseField>
+    <ResponseField name="name" type="string">
+    The name of the authentication parameter used in the API playground.
 
-    <ResponseField name="playground" type="Playground">
-      Configurations for the API playground
-
-      <Expandable title="Playground">
-        <ResponseField name="mode" default="show" type='"show" | "simple" | "hide"'>
-          Whether the playground is showing, hidden, or only displaying the endpoint with no added user interactivity `simple`
-
-          Learn more at the [playground guides](/api-playground/demo)
-        </ResponseField>
-      </Expandable>
+    If method is `basic`, the format should be `[usernameName]:[passwordName]`
     </ResponseField>
+    <ResponseField name="inputPrefix" type="string">
+    The default value that's designed to be a prefix for the authentication input field.
 
-    <ResponseField name="maintainOrder" type="boolean">
-      Enabling this flag ensures that key ordering in OpenAPI pages matches the key ordering defined in the OpenAPI file.
-
-      <Warning>This behavior will soon be enabled by default, at which point this field will be deprecated.</Warning>
+    E.g. If an `inputPrefix` of `AuthKey` would inherit the default input result of the authentication field as `AuthKey`.
     </ResponseField>
+  </Expandable>
+</ResponseField>
+
+<ResponseField name="playground" type="Playground">
+  Configurations for the API playground
+
+  <Expandable title="Playground">
+    <ResponseField name="mode" default="show" type='"show" | "simple" | "hide"'>
+      Whether the playground is showing, hidden, or only displaying the endpoint with no added user interactivity `simple`
+
+      Learn more at the [playground guides](/api-playground/demo)
+    </ResponseField>
+  </Expandable>
+</ResponseField>
+
+<ResponseField name="maintainOrder" type="boolean">
+  Enabling this flag ensures that key ordering in OpenAPI pages matches the key ordering defined in the OpenAPI file.
+
+  <Warning>This behavior will soon be enabled by default, at which point this field will be deprecated.</Warning>
+</ResponseField>
+```
 
   </Expandable>
 </ResponseField>
@@ -228,43 +239,46 @@ Example: `mintlify`
 <ResponseField name="openapi" type="string | string[]">
   A string or an array of strings of URL(s) or relative path(s) pointing to your
   OpenAPI file.
-  
-  Examples:
-  <CodeGroup>
-    ```json Absolute
+
+Examples: <CodeGroup>
+`json Absolute
     "openapi": "https://example.com/openapi.json"
-    ```
-    ```json Relative
+    `
+`json Relative
     "openapi": "/openapi.json"
-    ```
-    ```json Multiple
+    `
+`json Multiple
     "openapi": ["https://example.com/openapi1.json", "/openapi2.json", "/openapi3.json"]
-    ```
-  </CodeGroup>
+    ` </CodeGroup>
 
 </ResponseField>
 
 <ResponseField name="footerSocials" type="FooterSocials">
   An object of social media accounts where the key:property pair represents the social media platform and the account url.
-  
-  Example: 
-  ```json
-  {
-    "x": "https://x.com/mintlify",
-    "website": "https://mintlify.com"
-  }
-  ```
+
+Example:
+
+```json
+{
+  "x": "https://x.com/mintlify",
+  "website": "https://mintlify.com"
+}
+```
+
   <Expandable title="FooterSocials">
     <ResponseField name="[key]" type="string">
     One of the following values `website`, `facebook`, `x`, `discord`, `slack`, `github`, `linkedin`, `instagram`, `hacker-news`
-    
-    Example: `x`
-    </ResponseField>
-    <ResponseField name="property" type="string">
-    The URL to the social platform.
-    
-    Example: `https://x.com/mintlify`
-    </ResponseField>
+
+```
+Example: `x`
+</ResponseField>
+<ResponseField name="property" type="string">
+The URL to the social platform.
+
+Example: `https://x.com/mintlify`
+</ResponseField>
+```
+
   </Expandable>
 </ResponseField>
 
@@ -290,24 +304,26 @@ Example: `mintlify`
     </ResponseField>
     <ResponseField name="isHidden" type="boolean" default="false">
       Set to true to hide the dark/light mode toggle. You can combine `isHidden` with `default` to force your docs to only use light or dark mode. For example:
-      
-      <CodeGroup>
-      ```json Only Dark Mode
-      "modeToggle": {
-        "default": "dark",
-        "isHidden": true
-      }
-      ```
 
-      ```json Only Light Mode
-      "modeToggle": {
-        "default": "light",
-        "isHidden": true
-      }
-      ```
-      </CodeGroup>
+````
+  <CodeGroup>
+  ```json Only Dark Mode
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  }
+  ```
 
-    </ResponseField>
+  ```json Only Light Mode
+  "modeToggle": {
+    "default": "light",
+    "isHidden": true
+  }
+  ```
+  </CodeGroup>
+
+</ResponseField>
+````
 
   </Expandable>
 </ResponseField>

@@ -1,0 +1,33 @@
+{
+  "name": "udo-mintlify-docs",
+  "version": "1.0.0",
+  "description": "Documentation with Mintlify",
+  "scripts": {
+    "dev": "mintlify dev",
+    "format": "remark . --output",
+    "format:lists": "remark . --use remark-stringify --output --frail",
+    "format:custom": "node format-markdown.js",
+    "format:all": "node format-lists.js"
+  },
+  "devDependencies": {
+    "remark": "^15.0.1",
+    "remark-cli": "^12.0.0",
+    "remark-gfm": "^4.0.0",
+    "remark-stringify": "^11.0.0"
+  },
+  "remarkConfig": {
+    "settings": {
+      "ordered": ".",
+      "incrementListMarker": true,
+      "listItemIndent": "one",
+      "bullet": "*",
+      "emphasis": "_",
+      "strong": "**",
+      "rule": "-"
+    },
+    "plugins": [
+      "remark-stringify",
+      "remark-gfm"
+    ]
+  }
+}

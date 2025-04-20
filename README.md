@@ -23,18 +23,19 @@ mintlify dev
 The Mintlify Web Editor is the preferred way to edit docs directly without having to open your IDE or run `mintlify dev`. To set this up:
 
 1. Create a GitHub repository for your documentation (or use an existing one)
-2. Install the Mintlify GitHub app to your GitHub account at https://dashboard.mintlify.com/settings/organization/github-app
+2. Install the Mintlify GitHub app to your GitHub account at <https://dashboard.mintlify.com/settings/organization/github-app>
 3. Connect your repository to Mintlify
 4. Access the Web Editor from your Mintlify dashboard
 
 The editor includes key features like:
-- Creating branches
-- Making pull requests
-- Committing changes
-- Viewing diffs
-- Editing content directly with a visual editor
 
-For more information about the Web Editor, visit https://mintlify.com/docs/development/web-editor
+* Creating branches
+* Making pull requests
+* Committing changes
+* Viewing diffs
+* Editing content directly with a visual editor
+
+For more information about the Web Editor, visit <https://mintlify.com/docs/development/web-editor>
 
 ### Publishing Changes
 
@@ -42,5 +43,5 @@ Install the Mintlify Github App to auto propagate changes from your repo to your
 
 #### Troubleshooting
 
-- Mintlify dev isn't running - Run `mintlify install` to re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+* Mintlify dev isn't running - Run `mintlify install` to re-install dependencies.
+* Page loads as a 404 - Make sure you are running in a folder with `docs.json`

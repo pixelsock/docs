@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "remark-gfm"
+  ],
+  "settings": {
+    "ordered": ".",
+    "incrementListMarker": true,
+    "listItemIndent": "one",
+    "bullet": "*",
+    "emphasis": "_",
+    "strong": "**"
+  }
+} 
