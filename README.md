@@ -1,47 +1,537 @@
-# Mintlify Documentation
+# Article 5. Neighborhood 2 Zoning Districts: N2-A, N2-B, N2-C
 
-This repository contains the documentation for our project using Mintlify.
+## 5.1 PURPOSE
+## 5.2 USES
+## 5.3 DIMENSIONAL AND DESIGN STANDARDS
+## 5.4 OPEN SPACE REQUIREMENTS
+## 5.5 ON-SITE PEDESTRIAN CONNECTIVITY REQUIREMENTS
+## 5.6 SUPPLEMENTAL DEVELOPMENT STANDARDS
 
-## Development
+## 5.1 PURPOSE
+The Neighborhood 2 Zoning Districts are intended to accommodate a mixture of moderate to high-intensity residential uses, either as standalone buildings or as components of multi-dwelling developments, and may also serve as a transition between less intense residential development and higher-intensity mixed-use centers. Dwelling types permitted within these zoning districts primarily include multi-family dwellings, though lower-intensity dwellings including single-family, duplex, triplex, and quadraplex dwellings are also allowed within the N2-A or N2-B Zoning Districts, subject to the standards of the N1-E Zoning District (Section 4.3, except maximum residential building height), or as components of a multi-dwelling development.
 
-### Local Development
+Specific standards within each of the zoning districts address building form, orientation, and design. The Neighborhood 2 Zoning Districts also allow for select nonresidential uses, such as religious institutions, educational facilities, neighborhood commercial establishments, and limited mixed-use development.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command:
+### A. N2-A Neighborhood 2 Zoning District
+The N2-A Zoning District is intended for the development of multi-family attached dwellings, either as standalone buildings or as components of multi-dwelling developments. Lower-intensity residential dwellings, including single-family, duplex, triplex, and quadraplex dwellings are also allowed in the zoning district, subject to the standards of the N1-E Zoning District (Section 4.3, except maximum residential building height), or as components of a multi-dwelling development.
 
-```bash
-npm i -g mintlify
-```
+### B. N2-B Neighborhood 2 Zoning District
+The N2-B Zoning District is intended for the development of multi-family dwellings, including multi-family attached and multi-family stacked units, either as standalone buildings or as components of multi-dwelling developments. Lower-intensity residential dwellings, including single-family, duplex, triplex, and quadraplex dwellings are permitted within the zoning district, subject to the standards of the N1-E Zoning District (Section 4.3, except maximum residential building height), or as components of a multi-dwelling development.
 
-Run the following command at the root of your documentation (where docs.json is):
+### C. N2-C Neighborhood 2 Zoning District
+The N2-C Zoning District is intended for the development of multi-family dwellings, either as standalone buildings or as components of multi-dwelling developments, in an urban environment with smaller setbacks and incorporation of build-to zones.
 
-```bash
-mintlify dev
-```
+## 5.2 USES
+Article 15 lists permitted, temporary, and accessory uses for the Neighborhood 2 Zoning Districts. Use definitions are found in Article 15. Prescribed conditions applicable to certain principal uses, temporary uses, and accessory uses are also found in Article 15.
 
-### Using the Frontend Editor
+## 5.3 DIMENSIONAL AND DESIGN STANDARDS
 
-The Mintlify Web Editor is the preferred way to edit docs directly without having to open your IDE or run `mintlify dev`. To set this up:
+### A. General
 
-1. Create a GitHub repository for your documentation (or use an existing one)
-2. Install the Mintlify GitHub app to your GitHub account at <https://dashboard.mintlify.com/settings/organization/github-app>
-3. Connect your repository to Mintlify
-4. Access the Web Editor from your Mintlify dashboard
+1. The tables below include the dimensional and design standards for the Neighborhood 2 Zoning Districts. These standards apply to all multi-family development, either as standalone buildings or as components of multi-dwelling developments, and to all nonresidential and mixed-use development within the Neighborhood 2 Zoning Districts. Other allowed dwelling types, such as single-family, duplex, triplex, and quadraplex dwellings are subject to the dimensional and design standards for the N1-E Zoning District (Section 4.3, except maximum residential building height) for such dwelling type, unless they are part of a multi-dwelling development. Standards within the tables below may contain specific regulations organized by frontage type (Section 3.5).
 
-The editor includes key features like:
+2. The tables below include abbreviations as follows: MF-A = Multi-family Attached, MF-S = Multi-family Stacked, MDD = Multi-dwelling development, SF = Single Family. (Additional abbreviations are described in Section 2.2.)
+---
+### 3. Within the N2-A and N2-B Zoning Districts, the following shall apply to multi-family attached residential developments:
 
-* Creating branches
-* Making pull requests
-* Committing changes
-* Viewing diffs
-* Editing content directly with a visual editor
+a. A transit station, off-street public path, or public park shall not be considered a frontage where this Ordinance refers to frontages in general.
 
-For more information about the Web Editor, visit <https://mintlify.com/docs/development/web-editor>
+b. If a minimum 25' Class B landscape yard, measured from the future right-of-way line, abuts and runs parallel to an arterial street, the portion of the arterial street abutting this landscape yard shall not be considered a frontage for the standards of this Ordinance. The portion of the arterial street abutting this landscape yard shall still be considered a frontage for the standards of the remainder of this Ordinance. No parking lots shall be located between these landscape yards and permitted uses.
 
-### Publishing Changes
+### 4. In the tables below, where a cell contains a standard or a "✓" the standard is applicable. Where a cell is blank and shaded, the standard does not apply.
 
-Install the Mintlify Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch.
+## B. Lot
 
-#### Troubleshooting
+Lot standards govern the basic dimensions of lots, including but not limited to minimum area, width, and coverage as applicable. These standards are intended to provide a rational basis for the division, organization, and development of land within the City of Charlotte.
 
-* Mintlify dev isn't running - Run `mintlify install` to re-install dependencies.
-* Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+| Table 5-1: Neighborhood 2 Zoning Districts Lot Standards¹ | Table 5-1: Neighborhood 2 Zoning Districts Lot Standards¹ | N2-A | N2-B | N2-C |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------- | ---- |
+| A | Minimum Lot Area – Residential (square feet; Per building)² | SF, Duplex, Triplex, Quadraplex, & MF-A: 3,000 | SF, Duplex, Triplex, Quadraplex, & MF-A: 3,000<br/>MF-S: 12,000 | |
+| B | Minimum Lot Area – Nonresidential and Mixed-Use (square feet) | 12,000 | 12,000 | |
+| C | Minimum Lot Width – Residential (feet) | MF-A: 50<br/>MDD: 80 | MF-A: 50<br/>MDD & MF-S: 80 | |
+| D | Minimum Lot Width – Nonresidential and Mixed-Use (feet) | 70 | 80 | |
+| E | Maximum Building Coverage (%) | 50 | 60 | |
+
+¹ Lot Standards do not apply to individual sublots but do apply to the parcel on which the sublot(s) is located.
+
+² In multi-dwelling developments the total minimum lot area required shall be calculated by multiplying the minimum lot area required for each residential building type by the number of those buildings in the multi-dwelling development. The total minimum lot areas for each residential building type are added together to calculate the overall minimum lot area required for the multi-dwelling development.
+
+City of Charlotte 5-2 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## C. Building Siting
+
+Building siting standards govern the placement of buildings on lots and are intended to ensure that development maintains compatibility with its surrounding context and the intent of the applicable zoning district.
+
+[Diagram: An isometric illustration showing building placement on a lot. The diagram depicts two building structures (shown in light pink/beige) on a property lot with setback lines and build-to zones marked. Various measurement indicators are shown with letters A and B corresponding to the measurements referenced in the table below.]
+
+| Table 5-2: Neighborhood 2 Zoning Districts Building Siting Standards | Table 5-2: Neighborhood 2 Zoning Districts Building Siting Standards<br/>N2-A | Table 5-2: Neighborhood 2 Zoning Districts Building Siting Standards<br/>N2-B | Table 5-2: Neighborhood 2 Zoning Districts Building Siting Standards<br/>N2-C |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| A   Frontage Setback Line (from future back of curb) (feet)1,2 | | | |
+| Uptown Signature | 24 | 24 | 24 |
+| Main Street | 24 | 24 | 24 |
+| Linear Park | 36 | 36 | 36 |
+| 4-5 Lane Avenue/Boulevard | 24 | 24 | 20 |
+| 6 or more Lane Avenue/Boulevard | 30 | 30 | 24 |
+| 2-3 Lane Avenue | 24 | 20 | 20 |
+| Transit Station, Off-Street Public Path, Public Park 3 | 20 | 10 | 5 |
+| Uptown Primary | 20 | 20 | 20 |
+| Other - Primary | 20 | 20 | 20 |
+| Uptown Signature | 16 | 16 | 16 |
+| Secondary | 20 | 20 | 16 |
+| Parkway (Measured from ROW) | 20 | 20 | 20 |
+| Limited Access (Measured from ROW) | 20 | 20 | 10 |
+| B   Frontage Build-to Zone (BTZ) (from frontage setback line) (feet)4,5 | | | |
+| Main Street | | | 0-20 |
+| 4-5 Lane Avenue/Boulevard | | | 0-20 |
+| 6 or more Lane Avenue/Boulevard | | | 0-20 |
+| 2-3 Lane Avenue | | | 0-20 |
+| Transit Station, Off-Street Public Path, Public Park | | | 0-20 |
+| Other - Primary | | | 0-20 |
+| Secondary | | | 0-20 |
+| Parkway | | | |
+| Limited Access | | | |
+
+City of Charlotte
+Unified Development Ordinance
+
+5-3
+
+Part III. Neighborhood Zoning Districts
+Art. 5. Neighborhood 2 Zoning Districts
+---
+# Table 5-2: Neighborhood 2 Zoning Districts Building Siting Standards
+
+| | | N2-A | N2-B | N2-C |
+| - | ---------------------------------------------------- | ---- | ---- | ---- |
+| C | Minimum BTZ Build-To Percentage for Structure (%) | | | |
+| | Main Street | | | 80 |
+| | 4-5 Lane Avenue/Boulevard | | | 80 |
+| | 6 or more Lane Avenue/Boulevard | | | 80 |
+| | 2-3 Lane Avenue | | | 80 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 80 |
+| | Other - Primary | | | 80 |
+| | Secondary | | | 80 |
+| | Parkway | | | |
+| | Limited Access | | | |
+| D | Minimum Side Setback (feet) | 5 | 5 | 5 |
+| E | Minimum Rear Setback (feet) | | | |
+| | Not abutting Neighborhood 1 Place Type | 20 | 10 | 10 |
+| | Abutting Neighborhood 1 Place Type | 20 | 20 | 20 |
+
+1 On local and collector streets in the N2-A and N2-B Zoning Districts, measured from the existing back of curb. If there is no curb, measured from the curb location for the Residential Medium Cross Section in CLDSM. On local and collector streets in the N2-C Zoning District, measured from the existing back of curb. If there is no curb, measured from the curb location for the Residential Wide Cross Section in CLDSM. If SSI standards require the relocation of the back of curb or the back of curb is voluntarily relocated, that shall be considered the existing back of curb location.
+
+2 In no case shall any building entry be located closer than six feet to an existing or proposed off-street public path or shared use path.
+
+3 For the transit station, off-street public path, public park frontage, shall be measured from a property line or right-of-way line. If there is an easement in place for any frontage, then the measurement shall be taken from such easement. For any frontage abutting a reservation for a future frontage, the frontage setback line shall be measured from the edge of the reservation area.
+
+4 When an existing Charlotte Water easement, other utility easement, or overhead utility clearance requirement conflicts with the build-to zone requirement, a build-to line shall be established at the edge of the easement or the edge of the overhead utility clearance requirement closest to the build-to zone. A build-to zone shall not be required along frontages which abut a man-made or natural physical feature 35 feet in width or greater such as, but not limited to, a railroad line, rapid transit line, gas pipeline, SWIM buffer, or a buffer related to post-construction stormwater requirements. This does not include any stormwater control measure as required by this Ordinance.
+
+5 Where a lot has more than two frontages that require a build-to zone, the build-to zone shall be increased by 100% for those frontages that exceed two. Such an increase should be applied to those frontages that are lowest in the established hierarchy of frontages (Section 3.5.D).
+
+City of Charlotte
+Unified Development Ordinance
+
+5-4
+
+Part III. Neighborhood Zoning Districts
+Art. 5. Neighborhood 2 Zoning Districts
+---
+## D. Building Height
+
+Building height standards govern the maximum heights of buildings as applicable and are intended to provide flexibility while maintaining appropriate transitions to adjacent areas. The standards below apply to all uses unless a use has a specific standard. When only specific uses are cited, then the standard applies only to that use.
+
+| Table 5-3: Neighborhood 2 Zoning Districts Building Height Standards | Table 5-3: Neighborhood 2 Zoning Districts Building Height Standards<br/>N2-A | Table 5-3: Neighborhood 2 Zoning Districts Building Height Standards<br/>N2-B | Table 5-3: Neighborhood 2 Zoning Districts Building Height Standards<br/>N2-C | |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --- |
+| A | Maximum Building Height – Residential (feet) 1,2 | 48 4 | 48 3,4 | 65 |
+| B | Maximum Building Height – Nonresidential and Mixed-Use (feet) 1,2 | 48 3 | 48 3 | 65 |
+| C | Maximum Building Height with Bonus (feet) (Section 16.3) 1,2 | | | 100 |
+
+1 The height and location of structures may be restricted by the limitations set forth in the Code of Federal Regulations (CFR) Title 14 Part 77: Safe, Efficient Use, and Preservation of the Navigable Airspace. A notice of proposed construction FAA Form 7460-1 must be filed with the FAA for construction or alteration that impacts any of the imaginary surfaces as defined in 14 CFR Part 77, or is more than 200 feet in height above the ground at its site at least 45 days prior to construction. The Aviation Department Planning Division may serve as a point of contact for information regarding building notification requirements and obstruction evaluation.
+
+2 The maximum building height of any structure within 200 feet from the lot line of residential uses or vacant land in a Neighborhood 1 Place Type is limited as follows: Portions of a structure within the first 100 feet are limited to a maximum height of 50 feet. Portions of a structure located between 100 and 200 feet are limited to a maximum height of 65 feet. Beyond 200 feet, the building height is limited by the maximum height of the zoning district. Building heights for all portions of a structure shall be measured from the average grade established for the whole building. This limitation does not apply to public parks of three acres or greater within a Neighborhood 1 Place Type, nor to an area of two or fewer parcels totaling no more than three acres within a Neighborhood 1 Place Type.
+
+3 Building height may be increased by one foot for each additional one foot of building setback from required side and rear setbacks to a maximum height of 65 feet.
+
+4 When developing a single-family, duplex, triplex, or quadraplex building using the standards of the N1-E Zoning District the maximum residential building height shall be 48 feet, and the height regulations of Section 4.3.D shall not apply.
+
+City of Charlotte 5-5 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## E. Building Articulation
+
+Building articulation standards govern the dimensions of building facade elements and entry features and are intended to facilitate the enhancement of a pedestrian-oriented environment. The standards below apply to all uses unless a use has a specific standard. When only specific uses are cited, then the standard applies only to those uses.
+
+| Table 5-4: Neighborhood 2 Zoning Districts Building Articulation Standards | Table 5-4: Neighborhood 2 Zoning Districts Building Articulation Standards | N2-A | N2-B | N2-C |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
+| A | Minimum Building Length as a Percentage of Lot Width Along Frontage (Measured at Frontage Setback Line) (%)¹,⁸,⁹ | | | |
+| | Main Street | | | 60 |
+| | 4-5 Lane Avenue/Boulevard | | | 60 |
+| | 6 or more Lane Avenue/Boulevard | | | 60 |
+| | 2-3 Lane Avenue | | | 60 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 60 |
+| | Other - Primary | | | 60 |
+| | Secondary | | | 40 |
+| | Parkway | | | |
+| | Limited Access | | | |
+| B | Maximum Building Length Along a Frontage – Residential (feet)² | 250 | 400 | 400 |
+| C | Maximum Building Length Along a Frontage – Nonresidential and Mixed-Use (feet)²,¹⁰ | 400 | 400 | 400 |
+| D | Maximum Building Length Along a Frontage with Additional Design Elements (feet)²,³ | | | 600 |
+| E | Maximum Blank Wall Area – Residential (Ground floor and upper floors; Horizontal or Vertical; Per building) (feet)⁴ | MF: 20 | MF: 20 | MF: 20 |
+| F | Maximum Blank Wall Area – Nonresidential and Mixed-Use (Ground floor and upper floors; Horizontal or Vertical; Per building) (feet) | 20 | 20 | 20 |
+
+City of Charlotte 5-6 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+# Table 5-4: Neighborhood 2 Zoning Districts Building Articulation Standards
+
+| | | N2-A | N2-B | N2-C |
+| - | --------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- |
+| G | Minimum Ground Floor Height – Residential (Finished Floor Elevation to Finished Floor Elevation) (feet)4,5,6,7 | | | |
+| | Main Street | | | 10 |
+| | 4-5 Lane Avenue/Boulevard | | | 10 |
+| | 6 or more Lane Avenue/Boulevard | | | 10 |
+| | 2-3 Lane Avenue | | | 10 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 10 |
+| | Other - Primary | | | 10 |
+| | Secondary | | | 10 |
+| | Parkway | | | |
+| | Limited Access | | | |
+| H | Minimum Ground Floor Height – Nonresidential and Mixed-Use (Finished Floor Elevation to Finished Floor Elevation) (feet)5,7 | | | |
+| | Main Street | | | 14 |
+| | 4-5 Lane Avenue/Boulevard | | | 14 |
+| | 6 or more Lane Avenue/Boulevard | | | 14 |
+| | 2-3 Lane Avenue | | | 14 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 14 |
+| | Other - Primary | | | 14 |
+| | Secondary | | | 14 |
+| | Parkway | | | |
+| | Limited Access | | | |
+| I | Maximum Spacing for Required Prominent Entrances – Residential (feet)4 | | | |
+| | Main Street | 250 | 250 | 250 |
+| | 4-5 Lane Avenue/Boulevard | 250 | 250 | 250 |
+| | 6 or more Lane Avenue/Boulevard | 250 | 250 | 250 |
+| | 2-3 Lane Avenue | 250 | 250 | 250 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 250 |
+| | Other - Primary | 250 | 250 | 250 |
+| | Secondary | 250 | 250 | 250 |
+| | Parkway | | | |
+| | Limited Access | | | |
+| J | Maximum Spacing for Required Prominent Entrances – Nonresidential and Mixed-Use (feet)4 | | | |
+| | Main Street | 250 | 250 | 250 |
+| | 4-5 Lane Avenue/Boulevard | 250 | 250 | 250 |
+| | 6 or more Lane Avenue/Boulevard | 250 | 250 | 250 |
+| | 2-3 Lane Avenue | 250 | 250 | 250 |
+| | Transit Station, Off-Street Public Path, Public Park | | | 250 |
+| | Other - Primary | 250 | 250 | 250 |
+| | Secondary | 250 | 250 | 250 |
+| | Parkway | | | |
+| | Limited Access | | | |
+
+1. Where a minimum building length as a percentage of lot width applies to multiple frontages, the highest frontage classification in the hierarchy (per Section 3.5.D) shall meet the established standard. In the case of a lot with two frontages, the second frontage shall only meet a standard of 40%. If there are more than two frontages subject to the standard, there is no minimum requirement for any frontage beyond the two highest frontages in the hierarchy. This requirement does not apply to Parkway or Limited Access frontages.
+
+2. Maximum building length along a frontage does not apply to any frontage located along a Limited Access road. If any applicable minimum building length exceeds a maximum building length requirement, the maximum building length shall control.
+
+3. To achieve maximum building length with additional design elements, the following is required:
+
+City of Charlotte 5-7 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+### A. Where a building abuts two parallel frontages with pedestrian facilities, or one frontage with pedestrian facilities and a parking lot, public park or other publicly owned open space on the side of the building opposite the frontage, a pedestrian passage is required. Such passage shall meet the following criteria:
+
+1. General Requirements
+a. Passages shall be designed to accommodate pedestrians. Vehicular access and circulation shall not be allowed as a component of a passage.
+b. Passages shall be a minimum of 30 feet in width and 20 feet in height and shall be located within the middle third of the building, measured along the frontage.
+c. Passages shall be designed to maintain views from one end through to the other.
+d. Inclusion of decorative elements such as lighting installations or public art within passages is encouraged.
+e. Passages shall align with the street grid or other points of access to sidewalks, public paths, parking lots, public parks or other publicly owned open space where feasible.
+f. For the purposes of any build-to zone requirement, a building passage is considered part of the building façade that meets such requirement.
+
+2. Passages in nonresidential and mixed-use buildings.
+a. Ground floor uses shall be oriented toward the passage, including public entrances.
+b. Ground floor façades facing into building passages in nonresidential and mixed-use buildings shall maintain a minimum transparency of 35% of the wall area of the passage.
+
+3. Passages in residential buildings.
+a. Passages in residential buildings may be closed off to the public with gates and/or fencing but shall be of open design to allow for a clear view through the passage.
+b. Passages in residential buildings shall be designed with elements for use by residents, such as seating areas.
+c. Ground floor façades facing into building passages in residential buildings shall maintain a minimum transparency of 25% of the wall area of the passage.
+
+### B. Where a building does not abut two parallel frontages with pedestrian facilities, a break in the building massing is required as follows:
+
+1. Building mass shall be recessed a minimum of 20 feet in depth for no less than 30 linear feet along the façade. Such recess shall extend the full height of the building, and shall meet the following criteria:
+a. The recess shall be located within the middle third of the building, measured along the frontage.
+b. For nonresidential and mixed-use buildings, ground floor uses shall be oriented toward the recessed area, including public entrances.
+c. The recessed area is subject to all transparency requirements.
+d. The recessed area shall be designed as public or common space including amenities such as seating areas, landscaping, lighting, decorative elements, and public art.
+
+4 These standards do not apply to single-family, duplex, triplex, and quadraplex dwellings, and multi-family attached units when on sublots.
+
+5 The ground floor of residential developments is still considered residential when leasing or management offices and/or tenant facilities, such as gyms and community/party rooms associated with the development are located on the ground floor.
+
+6 Applies only if non-convertible residential; for convertible residential, nonresidential standard applies.
+
+7 At least 70% of the total ground floor for nonresidential uses and 30% for residential uses, measured as a percentage of the interior space, shall meet the minimum ground floor height requirement.
+
+8 On a site bounded by three or more street frontages, public open space that abuts a street frontage shall be counted as meeting building length for the purpose of calculating Minimum Building Length as a Percentage of Lot Width Along Frontage, subject to the following standards:
+A. This provision shall only be applied to a single street frontage.
+B. The abutting public open space shall comply with any applicable public open space standards of Table 16-2: Design of Open Space.
+C. The abutting public open space is no more than an average of 24 inches above or below grade of the adjacent sidewalk.
+D. The abutting public open space is a minimum of 50 feet in depth measured from the future right-of-way line.
+E. If no building abuts the public open space, or no building is located along the subject frontage, the established setback shall be determined as the terminus of any required build-to zone along the subject frontage.
+F. Any provided off-street parking shall be located behind this determined established setback.
+
+9 Required landscape yards are excluded from the lot width dimension for the purposes of calculating Minimum Building Length as a Percentage of Lot Width Along Frontage.
+
+10 The Maximum Building Length shall be 500 feet for an Educational Facility – Primary or Secondary, for an Educational Facility – University or College, or for a Place of Worship when these uses are located on an arterial street.
+
+City of Charlotte 5-8 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## F. Transparency
+
+Transparency standards govern the required amount of ground floor and upper floor transparency and are intended to facilitate the enhancement of a pedestrian-oriented environment. These standards do not apply to single-family, duplex, triplex, and quadraplex dwellings, and multi-family attached units when on sublots.
+
+| Table 5-5: Neighborhood 2 Zoning Districts Transparency Standards | Table 5-5: Neighborhood 2 Zoning Districts Transparency Standards<br/>N2-A | Table 5-5: Neighborhood 2 Zoning Districts Transparency Standards<br/>N2-B | Table 5-5: Neighborhood 2 Zoning Districts Transparency Standards<br/>N2-C |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **A**   Ground Floor Transparency – Residential<br/>(% of wall area between 3' and 10' from grade; Per building)1,2 | | | |
+| Main Street | 25 | 25 | 25 |
+| 4-5 Lane Avenue/Boulevard | 25 | 25 | 25 |
+| 6 or more Lane Avenue/Boulevard | 25 | 25 | 25 |
+| 2-3 Lane Avenue | 25 | 25 | 25 |
+| Transit Station, Off-Street Public Path, Public Park | | | 25 |
+| Other - Primary | 25 | 25 | 25 |
+| Secondary | 25 | 25 | 25 |
+| Parkway | 20 | 20 | 20 |
+| Limited Access | | | |
+| **B**   Ground Floor Transparency – Nonresidential and Mixed-Use (% of wall area between 3' and 10' from grade; Per building)1 | | | |
+| Main Street | 50 | 50 | 50 |
+| 4-5 Lane Avenue/Boulevard | 50 | 50 | 50 |
+| 6 or more Lane Avenue/Boulevard | 50 | 50 | 50 |
+| 2-3 Lane Avenue | 50 | 50 | 50 |
+| Transit Station, Off-Street Public Path, Public Park | | | 50 |
+| Other - Primary | 50 | 50 | 50 |
+| Secondary | 50 | 50 | 50 |
+| Parkway | 30 | 30 | 30 |
+| Limited Access | | | |
+| **C**   Upper Floor Transparency – Residential, Nonresidential and Mixed-Use (% of wall area per story; Per building) | | | |
+| Main Street | 15 | 15 | 15 |
+| 4-5 Lane Avenue/Boulevard | 15 | 15 | 15 |
+| 6 or more Lane Avenue/Boulevard | 15 | 15 | 15 |
+| 2-3 Lane Avenue | 15 | 15 | 15 |
+| Transit Station, Off-Street Public Path, Public Park | | | 15 |
+| Other - Primary | 15 | 15 | 15 |
+| Secondary | 15 | 15 | 15 |
+| Parkway | 15 | 15 | 15 |
+| Limited Access | | | |
+
+1 The ground floor of residential developments is still considered residential when leasing or management offices and/or tenant facilities, such as gyms and community/party rooms associated with the development are located on the ground floor.
+
+2 Applies only if non-convertible residential; for convertible residential, nonresidential standard applies.
+---
+## G. Site Layout Standards
+
+### 1. Residential Site Layout Standards
+The standards below establish site layout requirements for multi-family attached and multi-family stacked buildings within the Neighborhood 2 Zoning Districts, either as standalone buildings or as components of multi-dwelling developments. These site layout requirements also apply to duplex, triplex, and quadraplex buildings when these forms are components of a multi-dwelling development. Where standards below refer to a frontage, such standards do not apply to parkways or limited access roads.
+
+| Table 5-6: Neighborhood 2 Zoning Districts Residential Site Layout Standards | Table 5-6: Neighborhood 2 Zoning Districts Residential Site Layout Standards<br/>Multi-family Attached When Units Not On Sublots | Table 5-6: Neighborhood 2 Zoning Districts Residential Site Layout Standards<br/>Multi-family Stacked | Table 5-6: Neighborhood 2 Zoning Districts Residential Site Layout Standards<br/>Multi-family Attached When Units On Sublots | Table 5-6: Neighborhood 2 Zoning Districts Residential Site Layout Standards<br/>Duplex, Triplex, and Quadraplex Buildings in MDDs |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| The primary pedestrian entry to each principal structure abutting a frontage shall face the frontage. On corner lots, the primary pedestrian entry of the principal structure closest to the intersection may be oriented to either frontage. | | | | |
+| If a principal structure abuts both a frontage and common open space perpendicular to the frontage, the primary pedestrian entry may face the common open space1 if it meets the following: | | | | |
+| 1. The common open space has a minimum width of 50' for the length of the common open space provided. | ✓ | ✓ | | |
+| 2. The common open space has a maximum length of 500'. | | | | |
+| Principal structures not abutting a frontage do not have to orient primary pedestrian entries to a frontage or common open space. | | | | |
+| The sidewalls of each principal structure abutting a frontage shall be oriented perpendicular to the frontage. On corner lots, sidewalls of the principal structure closest to the intersection may be oriented perpendicularly to either frontage. | | | | |
+| If a principal structure abuts both a frontage and common open space, the sidewalls may orient perpendicularly to the common open space1 if it meets the following: | | | | |
+| 1. The common open space has a minimum width of 50' for the length of the common open space provided. | | | ✓ | ✓ |
+| 2. The common open space has a maximum length of 500'. | | | | |
+| Principal structures not abutting a frontage do not have to orient sidewalls perpendicularly to a frontage or common open space. | | | | |
+
+1 Common open space shall also comply with the standards of Table 16-2: Design of Open Space.
+
+City of Charlotte 5-10 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## H. Building Design Standards
+
+### 1. Residential Building Design Standards in the N2-A and N2-B Zoning Districts
+The table below establishes building design standards for multi-family attached when units not on sublots and multi-family stacked development, either as standalone buildings or as components of multi-dwelling developments, within the N2-A and N2-B Zoning Districts.
+
+All ground floor entrances to individual units on a frontage with a sidewalk shall be between 1' and 5' above the grade of the adjacent sidewalk when located within 10' of the back of sidewalk
+
+The primary pedestrian entry shall be a prominent entrance along a frontage
+
+Elements of variation incorporated into design when facing a frontage, public or common open space
+
+| Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards | Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards<br/>Multi-family Attached When Units Not on Sublots | Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards<br/>Multi-family Stacked |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| A frontage shall have a minimum of one prominent entrance, as defined in this Ordinance. The number of prominent entrances required shall be determined by the building length along the frontage and the maximum spacing in I of Table 5-4. | | |
+| In the case of a building located on a corner lot with two frontages, one prominent entrance located on the corner may count as a required prominent entrance for both frontages, subject to the following: | ✓ | ✓ |
+| 1. A prominent corner entry shall include design features that reinforce intersections as key locations for pedestrian activity. Two of the following shall be included:<br/>a. A chamfered or rounded corner design.<br/>b. Awnings, canopies, or other covered entry features.<br/>c. Special paving, landscape, or lighting features.<br/>d. Unique architectural detailing that emphasizes the corner entry. | | |
+
+City of Charlotte 5-11 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+The primary pedestrian entry shall be a prominent entrance along a frontage as defined by this Ordinance, except for a Limited Access frontage. In the case of a building with individual units with multiple exterior entrances, at least one of the entrances for each individual unit shall be a prominent entrance and that entrance shall be located on the highest frontage classification as per the hierarchy in Section 3.5.D.
+
+All ground floor entrances to individual units on a frontage with a sidewalk shall be between 1' and 5' above the grade of the adjacent sidewalk when located within 10' of the back of sidewalk. Residential units located below the grade of the adjacent sidewalk are permitted to have below-grade entrances, which shall be between 1' and 3' below the grade of the adjacent sidewalk. 1
+
+| Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards | Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards<br/>Multi-family Attached When Units Not On Sublots | Table 5-7: N2-A and N2-B Zoning Districts Residential Building Design Standards<br/>Multi-family Stacked |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| The primary pedestrian entry shall be a prominent entrance along a frontage as defined by this Ordinance, except for a Limited Access frontage. In the case of a building with individual units with multiple exterior entrances, at least one of the entrances for each individual unit shall be a prominent entrance and that entrance shall be located on the highest frontage classification as per the hierarchy in Section 3.5.D. | ✓ | ✓ |
+| All ground floor entrances to individual units on a frontage with a sidewalk shall be between 1' and 5' above the grade of the adjacent sidewalk when located within 10' of the back of sidewalk. Residential units located below the grade of the adjacent sidewalk are permitted to have below-grade entrances, which shall be between 1' and 3' below the grade of the adjacent sidewalk. 1 | ✓ | ✓ |
+| Structures shall incorporate elements of variation on any façade facing a frontage, public open space, or common open space. Variation shall be achieved as follows: | | |
+| 1. For multi-family attached buildings when units not on sublots, one of the following shall be incorporated into the design of the structure:<br/>a. Variation in the façade depth of adjoining dwelling units of at least 3'. Such variation shall extend the entire height of the façade.<br/>b. Architectural features, such as balconies, bay windows, or other elements along the façade of each dwelling unit, subject to the standards of Article 18. | ✓ | ✓ |
+| 2. For multi-family stacked buildings 150' or more in length, recesses or projections of the façade of at least 1' in depth, and no less than 10' in width are required at intervals of no more than 60' linearly. This shall not be required on any portion of a multi-family stacked building 50' or more in height above average grade. | | |
+| Windows, doors, porches, or other architectural features are required on all frontage-facing facades to avoid the appearance of blank walls. | ✓ | ✓ |
+
+1 Zoning Administrator may allow adjustments to standards if adjacent average sidewalk slope is greater than 10% or to comply with federal and state law.
+
+### 2. Residential Building Design Standards in the N2-C Zoning District
+
+The table below establishes building design standards for multi-family attached when units not on sublots and multi-family stacked development, either as standalone buildings or as components of multi-dwelling developments, within the N2-C Zoning District.
+
+| Table 5-8: N2-C Zoning District Residential Building Design Standards | Table 5-8: N2-C Zoning District Residential Building Design Standards<br/>Multi-family Attached When Units Not on Sublots | Table 5-8: N2-C Zoning District Residential Building Design Standards<br/>Multi-family Stacked |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| A frontage shall have a minimum of one prominent entrance, as defined in this Ordinance. The number of prominent entrances required shall be determined by the building length along the frontage and the maximum spacing in I of Table 5-4. | | |
+| In the case of a building located on a corner lot with two frontages, one prominent entrance located on the corner may count as a required prominent entrance for both frontages, subject to the following:<br/><br/>1. A prominent corner entry shall include design features that reinforce intersections as key locations for pedestrian activity. Two of the following shall be included:<br/>a. A chamfered or rounded corner design.<br/>b. Awnings, canopies, or other covered entry features.<br/>c. Special paving, landscape, or lighting features.<br/>d. Unique architectural detailing that emphasizes the corner entry. | ✓ | ✓ |
+
+City of Charlotte 5-12 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## Table 5-8: N2-C Zoning District Residential Building Design Standards
+
+| | Multi-family Attached When Units Not on Sublots | Multi-family Stacked |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------- |
+| The primary pedestrian entry shall be a prominent entrance along a frontage as defined by this Ordinance, except for a Limited Access frontage. In the case of a building with individual units with multiple exterior entrances, at least one of the entrances for each individual unit shall be a prominent entrance and that entrance shall be located on the highest frontage classification as per the hierarchy in Section 3.5.D. | ✓ | ✓ |
+| All ground floor entrances to individual units on a frontage with a sidewalk shall be between 1' and 5' above the grade of the adjacent sidewalk when located within 10' of the back of sidewalk. Residential units located below the grade of the adjacent sidewalk are permitted to have below-grade entrances, which shall be between 1' and 3' below the grade of the adjacent sidewalk.1 | ✓ | ✓ |
+| Structures shall incorporate elements of variation on any façade facing a frontage, public open space, or common open space. Variation shall be achieved as follows: | | |
+| 1. For multi-family attached buildings when units not on sublots, one of the following shall be incorporated into the design of the structure:<br/>a. Variation in the façade depth of adjoining dwelling units of at least 3'. Such variation shall extend the entire height of the façade.<br/>b. Architectural features, such as balconies, bay windows, or other elements along the façade of each dwelling unit, subject to the standards of Article 18. | ✓ | |
+| 2. For multi-family stacked buildings 150' or more in length, recesses or projections of the façade of at least 1' in depth, and no less than 10' in width are required at intervals of no more than 60' linearly. This shall not be required on any portion of a multi-family stacked building 50' or more above average grade. | | ✓ |
+| Arcades, galleries, colonnades, outdoor plazas, outdoor dining areas, or similar pedestrian-oriented ground floor designs may be incorporated into facades. When provided, such features that are in line with the building facade above the ground floor are considered to meet any required build-to percentage. | | ✓ |
+
+1 Zoning Administrator may allow adjustments to standards if adjacent average sidewalk slope is greater than 10% or to comply with federal and state law.
+
+### 3. Nonresidential and Mixed-Use Building Design Standards
+The following design standards apply to nonresidential and mixed-use buildings in the Neighborhood 2 Zoning Districts.
+
+In the case of a building with two frontages located on a corner, one prominent entrance located on the corner may count as a required prominent entrance for both frontages
+
+A minimum of one prominent entrance on ground floor required for each building on a site
+
+Connection between doors and adjacent pedestrian facilities
+
+City of Charlotte
+Unified Development Ordinance
+5-13
+Part III. Neighborhood Zoning Districts
+Art. 5. Neighborhood 2 Zoning Districts
+---
+a. A frontage shall have a minimum of one prominent entrance, as defined in this Ordinance. This does not apply to Limited Access frontages. The number of prominent entrances required shall be determined by the building length along the frontage and the maximum spacing in J of Table 5-4.
+
+i. In the case of a building located on a corner lot with two frontages, one prominent entrance located on the corner may count as a required prominent entrance for both frontages, subject to the following:
+
+(A) A prominent corner entry shall include design features that reinforce intersections as key locations for pedestrian activity. Two of the following shall be included.
+
+(1) A chamfered or rounded corner design.
+
+(2) Awnings, canopies, or other covered entry features.
+
+(3) Special paving, landscape, or lighting features.
+
+(4) Unique architectural detailing that emphasizes the corner entry.
+
+b. A minimum of one ground floor entrance along each frontage facing facade except for a Limited Access frontage shall include a pedestrian connection between doors and adjacent pedestrian facilities, where such facilities are present or are required by this Ordinance. The Zoning Administrator may waive this requirement if they determine that the nature of the use does not require such pedestrian connections.
+
+c. Where a building contains multiple tenant spaces on the ground floor abutting a frontage, each tenant space shall have a prominent entrance including a pedestrian connection between doors and adjacent pedestrian facilities, where such facilities are present or are required by this Ordinance. The Zoning Administrator may waive this requirement if they determine that the nature of the use does not require such pedestrian connections.
+
+d. A minimum of one prominent entrance on the ground floor is required per building on a site.
+
+e. Pedestrian-oriented ground-floor designs are encouraged, including arcades, galleries, colonnades, outdoor dining areas, and outdoor plazas. When integrated into the overall building design, such features are considered to meet any required build-to percentage.
+
+### I. Building Material Restrictions
+The following building material restrictions apply to nonresidential, mixed-use, and multi-family stacked buildings, and multi-family attached dwellings not on sublots, either as standalone buildings or as components of multi-dwelling developments, in the Neighborhood 2 Zoning Districts.
+
+1. The following building materials are limited to 25% of each façade along a frontage. They may also be used as a component of construction when not a surface finish material without limitation.
+
+a. Corrugated metal siding; however, the reuse of pre-fabricated shipping containers is permitted and is not subject to this limitation, subject to compliance with the building code and other applicable codes
+
+b. Exterior insulation finishing systems (EIFS) is prohibited on the ground floor of a multi-family stacked dwelling and multi-family attached dwelling when not on a sublot (the 25% permission in item 1 above does not apply)
+
+c. Plain concrete masonry units (CMU)
+
+d. Plastic
+
+e. T-111 composite plywood siding
+
+f. Vinyl
+
+## 5.4 OPEN SPACE REQUIREMENTS
+New construction of a principal building of 1,000 square feet or greater and/or expansion of a principal building by 5,000 square feet or 20% of the building area, whichever is less, is required to provide open space as specified in this section.
+
+City of Charlotte 5-14 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## A. Residential On-Site Open Space
+
+On-site open space is required in the Neighborhood 2 Zoning Districts for all multi-family stacked, multi-family attached, and multi-dwelling developments in accordance with the following:
+
+1. For multi-family stacked and multi-dwelling developments, a minimum of 10% of the site area shall be designed as on-site open space. Such open space may be private open space, common open space, public open space, or any combination thereof. For multi-family attached dwellings which are components of multi-dwelling developments, the provisions of items 2 or 3 below, as applicable by appropriate zoning district, may be used in lieu of this requirement.
+
+2. Multi-family attached development in the N2-A Zoning District shall provide a minimum of 250 square feet of open space per dwelling unit. Such open space may be private open space, common open space, public open space, or any combination thereof.
+
+3. Multi-family attached development in the N2-B and N2-C Zoning Districts shall provide a minimum of 150 square feet of open space per dwelling unit. Such open space may be private open space, common open space, public open space, or any combination thereof.
+
+4. Residential on-site open space shall meet the design requirements of Section 16.5.
+
+5. Residential on-site open space may be provided as land dedicated to Mecklenburg County Park and Recreation, a fee-in-lieu provided to Mecklenburg County Park and Recreation, or a combination thereof in accordance with the requirements of Section 16.5.
+
+6. For projects with multiple phases, the open space required for each phase, per this Section, shall be installed prior to completion of that phase.
+
+## B. Nonresidential and Mixed-Use On-Site Open Space
+
+1. Nonresidential and mixed-use development in the Neighborhood 2 Zoning Districts is required to provide on-site open space, except for developments on sites of one-half acre or less in size.
+
+2. Development shall provide a minimum of 10% of the site area in on-site open space. Such open space may be common open space, public open space, or any combination thereof.
+
+3. Nonresidential and mixed-use on-site open space shall meet the design requirements of Section 16.5.
+
+4. Nonresidential and mixed-use on-site open space may be provided as land dedicated to Mecklenburg County Park and Recreation, a fee-in-lieu provided to Mecklenburg County Park and Recreation, or a combination thereof in accordance with the requirements of Section 16.5.
+
+5. For projects with multiple phases, the open space required for each phase, per this Section, shall be installed prior to completion of that phase.
+
+> ## 5.5 ON-SITE PEDESTRIAN CONNECTIVITY REQUIREMENTS
+> Standards for required on-site pedestrian connectivity are found in Section 16.6.
+
+> ## 5.6 SUPPLEMENTAL DEVELOPMENT STANDARDS
+
+### A. General Development Standards
+General development standards are found in Article 16.
+
+### B. Accessory Structures
+Standards for accessory structures are found in Article 17.
+
+### C. Architectural Features
+Standards for architectural features are found in Article 18.
+
+### D. Off-Street Parking
+Standards for off-street parking and bicycle parking are found in Article 19.
+
+City of Charlotte 5-15 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
+---
+## E. Landscaping and Screening
+Landscaping and screening standards are found in Article 20.
+
+## F. Loading and Service
+Standards for loading spaces and service areas are found in Article 21.
+
+## G. Signs
+Standards for signs are found in Article 22.
+
+## H. Drainage
+Standards for drainage are found in Article 24.
+
+----
+
+City of Charlotte 5-16 Part III. Neighborhood Zoning Districts
+Unified Development Ordinance Art. 5. Neighborhood 2 Zoning Districts
